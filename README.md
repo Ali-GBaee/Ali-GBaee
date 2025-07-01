@@ -2,7 +2,6 @@
 # About Me
 
 <img src="https://github.com/user-attachments/assets/bf8526a0-2513-4f7a-81ff-422bd5633e98" >
-<h2></h2>
 <h2>I'm Back-End Developer.</h2>
 <p>Languages ​​I Specialize In:</p>
 
